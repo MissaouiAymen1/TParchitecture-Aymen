@@ -1,0 +1,28 @@
+a:link{
+	color:blue;
+	text-decoration:underline;
+}
+a:visited {
+	color:green;
+	text-decoration:underline;
+}
+a:hover {
+	color:orange;
+	text-decoration:none;
+}
+a:active {
+	color:yellow}
+table, th, td{
+//	border: 2px solide black;
+//}
+//table, th, td{
+//	background-color: turquoise;
+//}
+//th{
+ //	font-size: 28px;
+//	font-family:Comic;
+//}
+//td{
+//	font-size: 22px;
+//	font-family: Arial;
+//}
